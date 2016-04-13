@@ -6,21 +6,21 @@ a datepicker component for vue.js, online http://vue-area.github.io/vue-datepick
 
 **simple**
 
-```
+```html
 <date-picker> </date-picker>
 
 ```
 
 **set default date**
 
-```
+```html
 <date-picker value="1988-06-09" > </date-picker>
 
 ```
 
 **disable use**
 
-```
+```html
 <date-picker :disabled="false" > </date-picker>
 
 ```
