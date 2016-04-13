@@ -4,28 +4,28 @@ a datepicker component for vue.js, online http://vue-area.github.io/vue-datepick
 
 ## uses
 
-** simple **
+**simple**
 
 ```
 <date-picker> </date-picker>
 
 ```
 
-** set default date **
+**set default date**
 
 ```
 <date-picker value="1988-06-09" > </date-picker>
 
 ```
 
-** disable use **
+**disable use**
 
 ```
 <date-picker :disabled="false" > </date-picker>
 
 ```
 
-** disable range **
+**disable range**
 
 ```html
 <date-picker :disabled-date="disabledDate" > </date-picker>
@@ -44,7 +44,7 @@ new Vue({
 
 ```
 
-** method ** 
+**method** 
 
 ```html
 <date-picker @change="getDate"> </date-picker>
