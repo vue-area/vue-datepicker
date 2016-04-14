@@ -1,8 +1,19 @@
 # vue-datepicker
 
-a datepicker component for vue.js, online http://vue-area.github.io/vue-datepicker/ 
+a datepicker component for vue.js,
 
-## uses
+## online docs 
+
+http://vue-area.github.io/vue-datepicker/ 
+
+## how to start 
+
+```
+npm install
+npm run dev
+```
+
+## how to use
 
 **simple**
 
