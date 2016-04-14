@@ -1,21 +1,21 @@
 {
-  "name": "vue-webpack-demo",
+  "name": "vue-datepicker",
   "version": "0.1.0",
-  "description": "a vue demo use webpack and vue-loader",
+  "description": "a datepicker component for vue.js",
   "main": "app.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --quiet"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yangjunjun/vue-webpack-demo.git"
+    "url": "https://github.com/vue-area/vue-datepicker.git"
   },
   "author": "xngiser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yangjunjun/vue-webpack-demo/issues"
+    "url": "https://github.com/vue-area/vue-datepicker/issues"
   },
-  "homepage": "https://github.com/yangjunjun/vue-pack-demo",
+  "homepage": "https://github.com/vue-area/vue-datepicker",
   "devDependencies": { 
     "css-loader": "^0.21.0",
     "style-loader": "^0.13.0",
