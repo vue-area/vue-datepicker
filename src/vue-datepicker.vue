@@ -154,6 +154,7 @@ module.exports = {
     },
     show: {
       type: Boolean,
+      twoWay: true,
       default: false
     },
     disabled: {
